@@ -1,0 +1,123 @@
+{
+  "experiment_name": "Yuliya-vida-base-singlepass",
+  "run_id": "2026-05-09_07-14-11",
+  "image_pairs": [
+    {
+      "scene_id": "011",
+      "text_description": "Image A: The image quality is considered fair because, while the overall composition is coherent, the moderate low clarity and edge aliasing effects significantly impact the sharpness and detail of key areas. These distortions affect the perception of architectural features and vehicle details, which are important to the image's context.\n\nImage B: The image quality is considered fair because, while the moderate low clarity and edge aliasing effects significantly impact the sharpness and detail of the the building facade and cars, the overall composition remains coherent with a a a good balance of color and contrast."
+    },
+    {
+      "scene_id": "012",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The distortion is localized and does not significantly detract from the overall visual appeal, which is supported by good contrast and color balance.\n\nImage B: The image quality is considered good because the, despite the moderate overexposure in the sky, the overall composition remains strong. The architectural details are well-defined, and the the contrast and color balance are well-mainted, ensuring the image remains visually appealing."
+    },
+    {
+      "scene_id": "023",
+      "text_description": "Image A: The image quality is considered fair because, while the main subject is clear and well-defined, the the severe and moderate out of focus blurs significantly impact the overall sharpness and detail of the background elements. These blurs affect the perception of depth and context, which are important for understanding the scene.\n\nImage B: The image quality is considered good because, despite the moderate low clarity and overexposure, the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but the the image maintains a good level of detail and contrast. The overexposure affects the sky, but that the the image maintains a good level of detail and contrast. The overexposure affects the sky, that the the image maintains a good level of detail and contrast. The overexposure affects the sky, that the the image maintains a good level of detail and contrast. The overexposure affects the sky, that the the image maintains a good level of"
+    },
+    {
+      "scene_id": "066",
+      "text_description": "Image A: The image quality is considered fair due to the moderate low clarity and severe under exposure issues. These distortions affect key areas, reducing sharpness and detail, and creating a uneven lighting balance, which detracts from the the overall visual experience.\n\nImage B: The image quality is considered fair because, while the severe overexposure and moderate low clarity significantly impact the image, the overall composition remains coherent with a no significant color distortions or a noise."
+    },
+    {
+      "scene_id": "068",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity and edge aliasing effects, the the image maintains a a good level of detail and contrast. The lighting is well-balanced, and the overall composition remains visually appealing.\n\nImage B: The image quality is considered fair because, while the overall composition is coherent, the moderate low clarity and under under noise significantly impact the sharpness and detail of key areas. These issues detract from the the image's potential vibrancy and clarity."
+    },
+    {
+      "scene_id": "088",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the the dark window and surrounding brick wall, the the image maintains a good level of detail and contrast in the rest of the the scene. The overall composition remains visually appealing, with the dark window and brick wall providing a a a interesting focal point.\n\nImage B: The image quality is considered fair because, while the moderate low clarity distortion affects the central elements, the the overall composition remains coherent and the image maintains a a good level of detail and contrast."
+    },
+    {
+      "scene_id": "114",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(361,333),(480,641)\nEdge aliasing effect:\nModerate edge aliasing effect(434,350),(534,588)\nUnderexposure:\nModerate under(203,520),(355,962).\n\nImage B: The image quality is considered fair. The moderate low clarity in the sky and tree branches significantly impacts the overall quality by reducing the sharpness and detail in the top of the the image. However, the image maintains a a good level of detail in the main subject and foreground, with no significant noise or color distortions."
+    },
+    {
+      "scene_id": "191",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(341,10),(591,345)\nMotion blur:\nModerate motion blur(552,542),(610,711)\nOverexposure:\nModerate overexposure(45,397),(66,431)\nUnderexposure:\nModerate under(10,510),(334,911)(10,10),(117,231).\n\nImage B: The image quality is considered fair due to the moderate low clarity and severe overexposure. The low clarity affects the visibility and sharpness of key elements, while the overexposure creates a distracting glare and loss of detail in the streetlight. These issues collectively reduce the image's overall clarity and detail."
+    },
+    {
+      "scene_id": "002",
+      "text_description": "Image A: The image quality is considered good because, despite the moderate overexposure and edge aliasing effects, the image maintains a good level of detail and clarity. The lighting and composition are well-balanced, and the noise is minimal, contributing to a a good overall visual experience.\n\nImage B: The image quality is considered good because the, despite the moderate overexposure and edge aliasing effects, the image maintains a good level of detail and clarity. The lighting is well-balanced, and the overall composition remains visually appealing."
+    },
+    {
+      "scene_id": "003",
+      "text_description": "Image A: The image quality is considered fair because, while the moderate low clarity and overexposure issues affect the sharpness and detail, the image maintains a a consistent color palette and lacks significant noise, preserving a a fair level of visual coherence.\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the the jacket and beanie, the overall composition remains coherent and visually appealing. The lighting and color balance are well-maintained, and the image effectively conveys the intended setting and context."
+    },
+    {
+      "scene_id": "006",
+      "text_description": "Image A: The image quality is considered fair because, while the moderate low clarity affects the the license plate and rear window, the overall composition remains coherent with a no significant noise or color distortions. The image maintains a a a a good level of detail and contrast, with the the license plate and rear window being the most affected areas.\n\nImage B: The image quality is considered fair because, while the severe overexposure significantly impacts the the clarity and detail of the background, the the overall composition remains coherent with a the well-defined foreground elements. The overexposure is the most significant issue, but but the image maintains a a a a good level of detail and contrast in the the foreground."
+    },
+    {
+      "scene_id": "009",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the the upper-left corner of the building, the overall composition remains coherent with well-defined elements and balanced lighting. The image maintains a a good level of detail and contrast, with no significant noise or color distortions.\n\nImage B: The image quality is considered good because, despite the presence of moderate overexposure and edge aliasing effects, the the image maintains a good level of detail and clarity. The overexposure affects the sky and building tops, but the edge aliasing affects the building facades and parked cars, but the low clarity affects the the grass and small plants, but the the noise affects the the building facades and parked cars, but the the under the the building facades and parked cars, and the the the building facades and parked cars."
+    },
+    {
+      "scene_id": "016",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing is noticeable but does not significantly detract from the the overall visual appeal, and the image's composition and color balance remain strong.\n\nImage B: The image quality is considered good because the, despite the moderate overexposure in the background, the image maintains a good level of detail and clarity in the primary subjects. The overexposure does not significantly detract from the overall visual appeal, and the image's color balance and contrast are well-maintled."
+    },
+    {
+      "scene_id": "031",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the the sign, the overall composition remains clear and the primary elements are still discernible. The image maintains a good level of detail and contrast, with no significant noise or color distortions.\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the the text and sign, the overall composition remains clear and the main elements are still recognizable. The image maintains a a a good level of detail and contrast, with no significant noise or color distortions."
+    },
+    {
+      "scene_id": "034",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity distortion affecting the tree branches, the the overall composition remains strong. The building's vibrant colors and the clear depiction of the street and bicycle racks contribute to a a a visually appealing image.\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the trees branches, the image maintains a good level of detail and contrast. The overall composition remains visually appealing, with the the building's vibrant facade and the road providing strong focal points."
+    },
+    {
+      "scene_id": "047",
+      "text_description": "Image A: The image quality is considered fair because, while the overall composition is visually engaging, the the severe overexposure and moderate low clarity significantly impact the image's clarity and detail. These issues detract from the the image's ability to convey the intended scene effectively.\n\nImage B: The image quality is considered fair because, while the main subject is clear and well-defined, the moderate overexposure and low clarity distortions in the background elements significantly impact the overall visual appeal and detail."
+    },
+    {
+      "scene_id": "056",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing is the only significant distortion, but the overall composition and lighting remain strong, contributing to a a a good overall visual experience.\n\nImage B: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing is the only significant distortion, but the overall composition and lighting are well-balanced, contributing to a a a good visual experience."
+    },
+    {
+      "scene_id": "061",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing is noticeable but does not significantly detract from the the overall visual appeal, and the image's composition and color balance remain strong.\n\nImage B: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing is noticeable but does not significantly detract from the the overall visual appeal, and the image's composition and color balance remain strong."
+    },
+    {
+      "scene_id": "065",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(452,184),(777,638)\nOverexposure:\nModerate overexposure(234,710),(266,780)(373,516),(388,552)(345,862),(358,900)(361,920),(375,969)\nUnderexposure:\nSevere under(397,516),(492,662).\n\nImage B: The image quality is considered fair because, while the main subject\u2014the the parked Skoda SUV\u2014is clear and well-defined, the severe under the license plate and moderate overexposure on the ceiling light significantly detract from the overall visual experience. These issues reduce the image's clarity and detail, impacting the viewer's ability to fully appreciate the scene."
+    },
+    {
+      "scene_id": "082",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(309,130),(494,640)\nEdge aliasing effect:\nModerate edge aliasing effect(555,161),(691,525)(541,581),(630,731)\nOverexposure:\nModerate overexposure(134,649),(166,684).\n\nImage B: The image quality is considered fair because, while the moderate low clarity and overexposure significantly impact the the overall sharpness and detail, the image maintains a a good level of contrast and color balance, with no significant noise or color distortions."
+    },
+    {
+      "scene_id": "084",
+      "text_description": "Image A: The image quality is considered fair because, while the moderate low clarity and under under exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a a under exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a a exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a exposure issues significantly impact the image, the overall composition remains coherent. The image maintains a exposure issues significantly impact the image, the overall composition remains coherent. The image maintains\nmoderate low clarity(462,256),(666,993) affects the person standing near the car and the car itself, causing them to appear slightly blurred with less defined edges and reduced detail. This makes it difficult to discern finer details such as facial features and the car's surface texture. The moderate under under exposure affects the glass windows and the the building facade, making them appear darker than the rest of the image, with reduced visibility of details and texture. The moderate under under exposure affects the person standing near the car and the the car itself, making them appear darker than the rest of the image, with reduced visibility of detail and texture. The moderate under under exposure affects the person standing near the car and the the car itself, making them appear\n\nImage B: Low clarity:\nModerate low clarity(1,570),(394,991)(795,445),(996,710)\nOverexposure:\nSevere overexposure(438,430),(544,462)(412,555),(522,610)\nModerate overexposure(451,430),(522,462)\nUnderexposure:\nModerate under(11,315),(996,408)."
+    },
+    {
+      "scene_id": "086",
+      "text_description": "Image A: The image quality is considered fair because, while the low clarity and out of focus blur affect the background elements, the the main subject remains clear and well-defined. The overall composition is slightly disrupted by the the tilted angle, but the image maintains a a a good level of detail and contrast.\n\nImage B: The image quality is considered fair because, while the moderate low clarity and out of focus blur affect the background elements, the moderate noise in the foreground elements like the jacket and hat significantly impacts the overall perception. The noise reduces the image's sharpness and detail, which are crucial for maintaining visual interest and clarity."
+    },
+    {
+      "scene_id": "091",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(210,524),(262,606)\nEdge aliasing effect:\nModerate edge aliasing effect(345,59),(570,302)(220,477),(273,602)(552,6),(702,114)(441,604),(495,684).\n\nImage B: The image quality is considered fair because, while the overall composition is coherent, the moderate low clarity and severe overexposure significantly impact the image's sharpness and detail. The overexposure is particularly detrimental, as it affects a key visual element, reducing the image's overall quality."
+    },
+    {
+      "scene_id": "098",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the the sign and the minor noise affecting the shadow, the image maintains a good level of detail and clarity overall. The text on the sign is still legible, and the noise does not significantly detract from the image's overall perception.\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the the sign, the image maintains a good level of detail and clarity overall. The text is still readable, and the image effectively conveys its purpose as a a informational sign."
+    },
+    {
+      "scene_id": "102",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(259,620),(545,999)(345,10),(552,505)\nMotion blur:\nModerate motion blur(552,261),(641,617).\n\nImage B: The image quality is considered fair because, while the motion blur of the the car is a the most significant issue, the overall contrast and color balance are weak. The motion blur affects the clarity and detail of the car, which is a the most important element, while the under under the under of the car is the most significant issue, the overall contrast and color balance are weak. The motion blur affects the clarity and detail of the car, which is the most important element, while the overall contrast and color balance are weak."
+    },
+    {
+      "scene_id": "111",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the the upper floors of the building, the overall composition remains coherent with well-defined elements and balanced lighting. The low clarity is the only significant issue, but it does not drastically degrade the overall visual experience.\n\nImage B: The image quality is considered fair because, while the moderate low clarity and severe overexposure significantly impact the image's sharpness and detail, the overall composition remains coherent with a no significant color distortions or the noise."
+    },
+    {
+      "scene_id": "126",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(291,35),(552,534)(480,769),(591,998)\nOverexposure:\nModerate overexposure(234,62),(258,101).\n\nImage B: The image quality is considered fair because, while the severe overexposure and moderate underexposure significantly impact the image, the the overall composition and lighting balance are maintained. The image maintains a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+      "scene_id": "142",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the red car, the overall composition remains coherent and visually appealing. The image maintains good contrast and color balance, with the red car's color standing out against the neutral tones of the parking garage.\n\nImage B: The image quality is considered good because, despite the moderate low clarity and underexposure, the the image maintains a good level of detail and contrast. The overall composition remains coherent, and the distortions do not significantly detract from the image's visual appeal."
+    }
+  ],
+  "metadata": {
+    "prompt": "Provide a detailed evaluation of the image quality.",
+    "source": "logs/tcl_eval/single_natural_vida-base.json",
+    "method": "single-image inference per camera, concatenated for collator"
+  }
+}

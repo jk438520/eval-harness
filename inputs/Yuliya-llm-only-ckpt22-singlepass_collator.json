@@ -1,0 +1,123 @@
+{
+  "experiment_name": "Yuliya-llm-only-ckpt22-singlepass",
+  "run_id": "2026-05-09_07-24-54",
+  "image_pairs": [
+    {
+      "scene_id": "011",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(252,1),(844,999)\nEdge aliasing effect:\nModerate edge aliasing effect(691,345),(784,541)(755,53),(845,125)(700,604),(773,720)(762,4418),(830,555).\n\nImage B: Low clarity:\nModerate low clarity(11,369),(286,655)\nEdge aliasing effect:\nModerate edge aliasing effect(11,369),(996,662)(15,655),(996,780)\nOverexposure:\nModerate overexposure(12,10),(550,362)."
+    },
+    {
+      "scene_id": "012",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(2,662),(530,999)(255,2),(320,671)(844,1),(911,994)(645,2),(820,119).\n\nImage B: The image quality is considered good because the, despite the moderate overexposure in the sky, the image maintains a good level of detail and contrast in the buildings and greenery. The overexposure is the main issue, but does not significantly detract from the overall visual appeal."
+    },
+    {
+      "scene_id": "023",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(3,2),(514,309)(455,571),(580,989)(530,1),(998,120)(280,394),(400,998)\nOut of focus blur:\nModerate out of focus blur(11,291),(330,989)(330,630),(530,989)(780,1),(998,191)(510,1),(623,294).\n\nImage B: Low clarity:\nModerate low clarity(1,330),(344,491)\nOverexposure:\nModerate overexposure(10,10),(331,214)."
+    },
+    {
+      "scene_id": "066",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(445,356),(591,577)\nOverexposure:\nSevere overexposure(161,70),(211,210)(370,691),(391,740)\nUnderexposure:\nSevere under(445,361),(591,575)(466,649),(616,986)(416,10),(591,178).\n\nImage B: Low clarity:\nModerate low clarity(381,441),(609,634)\nOverexposure:\nSevere overexposure(755,144),(903,230)(144,359),(229,388)\nUnderexposure:\nSevere under(16,455),(281,584)(775,430),(871,562)."
+    },
+    {
+      "scene_id": "068",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(291,625),(588,811)(591,330),(680,577)\nEdge aliasing effect:\nModerate edge aliasing effect(173,475),(303,645)(605,641),(695,788)(600,362),(666,508)(600,647),(680,745)(600,305),(645,362)(305,291),(320,362)(320,291),(334,355)(330,291),(342,355)(344,291),(355,355)(355,291),(368,355)(368,291),(380,355)(380,291),(392,355)(392,291),(4\n\nImage B: Low clarity:\nModerate low clarity(1,5),(994,995)\nUnderexposure:\nModerate underexposure(10,455),(244,534)(104,170),(271,277)(194,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)(188,366),(271,477)"
+    },
+    {
+      "scene_id": "088",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(310,326),(820,996)\n\nImage B: Low clarity:\nModerate low clarity(275,355),(670,762)\nUnderexposure:\nModerate underexposure(680,350),(978,610)."
+    },
+    {
+      "scene_id": "114",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(355,552),(498,989)(370,338),(502,640)\nEdge aliasing effect:\nModerate edge aliasing effect(434,352),(534,591)\nUnderexposure:\nModerate under(191,527),(361,984).\n\nImage B: Low clarity:\nModerate low clarity(1,164),(335,534)(638,345),(996,595)\nOverexposure:\nModerate overexposure(938,466),(996,484)."
+    },
+    {
+      "scene_id": "191",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(341,10),(591,331)\nMotion blur:\nModerate motion blur(552,542),(617,711)\nOverexposure:\nModerate overexposure(47,397),(70,431)\nUnderexposure:\nModerate under(10,514),(334,988)(10,10),(117,231).\n\nImage B: Low clarity:\nModerate low clarity(1,369),(997,598)\nMotion blur:\nModerate motion blur(238,509),(461,575)\nOverexposure:\nModerate overexposure(564,10),(601,41)(703,107),(731,130)\nNoise:\nModerate noise(1,369),(997,598)\nUnderexposure:\nModerate under(11,10),(564,355)."
+    },
+    {
+      "scene_id": "002",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(230,655),(977,811)(241,441),(303,552)(355,438),(391,488)\nOverexposure:\nModerate overexposure(261,470),(291,536).\n\nImage B: Edge aliasing effect:\nModerate edge aliasing effect(12,2),(284,198)(610,659),(855,998)(204,705),(303,997)(303,659),(610,705)(303,241),(623,323)(623,2),(961,295)(285,708),(303,830)(303,2),(620,104)(284,297),(161,362)(188,355),(255,391)."
+    },
+    {
+      "scene_id": "003",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(581,530),(703,702)\nOverexposure:\nModerate overexposure(273,531),(311,623)\n\nImage B: Low clarity:\nModerate low clarity(372,555),(572,662)\nEdge aliasing effect:\nModerate edge aliasing effect(369,345),(454,595)(620,400),(703,588)(588,345),(692,405)(381,345),(454,400)(294,345),(388,380)(700,245),(825,345)(820,245),(996,298)(825,300),(996,362)(278,430),(365,448)(271,530),(361,545)."
+    },
+    {
+      "scene_id": "006",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(430,259),(534,497)(430,552),(516,708)\nUnderexposure:\nModerate under(705,725),(999,996).\n\nImage B: Low clarity:\nModerate low clarity(461,405),(709,555)\nOverexposure:\nModerate overexposure(462,423),(703,541)(224,391),(338,455)(10,388),(107,455)."
+    },
+    {
+      "scene_id": "009",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(111,2),(523,999)(520,691),(570,731).\n\nImage B: Low clarity:\nModerate low clarity(11,205),(194,552)\nOverexposure:\nModerate overexposure(10,12),(572,198)."
+    },
+    {
+      "scene_id": "016",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(295,525),(441,659)(562,423),(605,591).\n\nImage B: Edge aliasing effect:\nModerate edge aliasing effect(220,250),(380,384)(194,509),(281,555)(10,520),(66,545)(184,516),(220,540)(572,505),(623,530)(88,570),(128,591)(762,516),(803,530)(875,508),(908,525)(948,507),(977,520)"
+    },
+    {
+      "scene_id": "031",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(612,523),(805,711)(230,705),(361,905)(355,10),(402,677)(491,5),(534,712).\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the the text and sign, the image maintains a good level of detail and clarity overall. The text is still legible enough to convey the main message, and the image's composition remains intact."
+    },
+    {
+      "scene_id": "034",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(288,430),(723,845)(255,0),(303,52).\n\nImage B: Edge aliasing effect:\nModerate edge aliasing effect(111,659),(996,745)(103,275),(211,420)(103,477),(181,634)(462,338),(523,362)(461,380),(517,398)(458,646),(502,675)(405,319),(445,340)(406,370),(443,395)(404,562),(443,580)(405,505),(442,520)(406,477),(442,490)(405,400),(442,410)(406,300),(441,310)(405,359),(442,370)(405,500),(442,505)("
+    },
+    {
+      "scene_id": "047",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(397,12),(588,373)\nOut of focus blur:\nModerate out of focus blur(1,488),(253,998)(255,509),(334,652)\nOverexposure:\nModerate overexposure(291,297),(355,391).\n\nImage B: Low clarity:\nModerate low clarity(1,2),(500,273)(500,255),(775,491)\nOut of focus blur:\nModerate out of focus blur(785,362),(997,545)\nOverexposure:\nSevere overexposure(644,10),(999,362)."
+    },
+    {
+      "scene_id": "056",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(434,234),(510,510)(2,516),(303,625)(6,673),(178,773)(2,2),(122,31)(355,361),(370,430)(125,361),(139,428)(255,365),(270,425)(273,367),(288,406)(200,552),(273,598)(280,555),(293,605).\n\nImage B: Edge aliasing effect:\nModerate edge aliasing effect(516,425),(795,491)(1,62),(234,245)(815,375),(908,455)."
+    },
+    {
+      "scene_id": "061",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(416,448),(480,595)(577,519),(633,562).\n\nImage B: The image quality is considered good because the, despite the moderate edge aliasing effect, the image maintains a good level of detail and clarity. The aliasing effect is noticeable but does not significantly detract from the the overall visual appeal or the image remains visually appealing."
+    },
+    {
+      "scene_id": "065",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(452,184),(777,640)\nOverexposure:\nModerate overexposure(234,710),(266,780)(373,514),(388,552)(345,877),(358,905)(361,920),(375,948)(320,773),(330,791)(340,741),(345,762)(350,811),(360,830)(370,530),(380,540)\nUnderexposure:\nSevere under(397,516),(488,662).\n\nImage B: Low clarity:\nModerate low clarity(352,410),(494,562)\nOverexposure:\nModerate overexposure(131,195),(250,244)(783,277),(829,297)\nUnderexposure:\nModerate under under(311,366),(494,434)."
+    },
+    {
+      "scene_id": "082",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(309,13),(517,645)\nEdge aliasing effect:\nModerate edge aliasing effect(555,161),(691,525)(545,619),(603,731)(552,584),(580,644)(562,294),(603,373)\nOverexposure:\nModerate overexposure(134,649),(162,680).\n\nImage B: Low clarity:\nModerate low clarity(308,384),(999,510)\nOverexposure:\nSevere overexposure(251,110),(294,156)."
+    },
+    {
+      "scene_id": "084",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(462,254),(666,993)\nUnderexposure:\nModerate underexposure(1,430),(100,988)(154,284),(217,620)(355,12),(448,988)(220,705),(355,988).\n\nImage B: Low clarity:\nModerate low clarity(1,570),(394,991)(795,445),(999,715)\nOverexposure:\nModerate overexposure(361,445),(583,610)(451,430),(531,462)\nUnderexposure:\nModerate under(12,315),(999,409)."
+    },
+    {
+      "scene_id": "086",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(441,10),(999,261)(2,2),(391,399)(40,575),(338,979)\nOut of focus blur:\nModerate out of focus blur(1,578),(488,991)(410,610),(502,999)\nOverexposure:\nModerate overexposure(284,578),(291,662).\n\nImage B: Low clarity:\nModerate low clarity(1,4),(403,434)(564,1),(996,412)\nOut of focus blur:\nModerate out of focus blur(697,434),(999,720)(1,445),(234,642)\nOverexposure:\nModerate overexposure(815,455),(881,538)."
+    },
+    {
+      "scene_id": "091",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(210,525),(262,606)\nMotion blur:\nModerate motion blur(209,531),(262,602).\n\nImage B: Low clarity:\nModerate low clarity(274,241),(517,598)\nOverexposure:\nSevere overexposure(31,525),(100,588)"
+    },
+    {
+      "scene_id": "098",
+      "text_description": "Image A: Edge aliasing effect:\nModerate edge aliasing effect(655,555),(820,723)(410,55),(455,677)(273,710),(398,845)(505,41),(580,720)(652,555),(723,713)(723,555),(780,713)(580,42),(598,101)\n\nImage B: The image quality is considered good because the, despite the moderate low clarity affecting the the sign, the image maintains a good level of detail and clarity overall. The text is still legible, and the the image maintains a good level of detail and clarity overall. The text is still legible, and the overall composition remains coherent."
+    },
+    {
+      "scene_id": "102",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(259,625),(545,999)(345,10),(552,505)\nMotion blur:\nModerate motion blur(555,261),(641,617).\n\nImage B: Low clarity:\nModerate low clarity(1,255),(997,510)\nMotion blur:\nModerate motion blur(394,510),(775,610)\nOverexposure:\nModerate overexposure(41,220),(77,244)."
+    },
+    {
+      "scene_id": "111",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(605,5),(720,144)(410,702),(623,993)\nEdge aliasing effect:\nModerate edge aliasing effect(644,144),(795,597)(662,675),(780,820).\n\nImage B: Low clarity:\nModerate low clarity(1,362),(185,634)\nOverexposure:\nModerate overexposure(811,552),(999,625)(91,569),(116,588)\nUnderexposure:\nModerate under(2,5),(174,362)(80,888),(999,995)."
+    },
+    {
+      "scene_id": "126",
+      "text_description": "Image A: Low clarity:\nModerate low clarity(291,35),(552,534)\nOverexposure:\nModerate overexposure(234,62),(256,101).\n\nImage B: Low clarity:\nModerate low clarity(1,410),(221,555)\nOverexposure:\nModerate overexposure(902,174),(935,210)\nNoise:\nModerate noise(1,5),(999,994)\nUnderexposure:\nModerate under(434,255),(800,488)(18,391),(254,495)."
+    },
+    {
+      "scene_id": "142",
+      "text_description": "Image A: The image quality is considered good because the, despite the moderate low clarity affecting the red car, the image maintains a good level of detail and contrast. The overall composition remains clear, with well-defined elements and a balanced lighting that enhances the visibility of the scene.\n\nImage B: Low clarity:\nModerate low clarity(358,462),(431,534)\nUnderexposure:\nModerate underexposure(10,410),(250,530)."
+    }
+  ],
+  "metadata": {
+    "prompt": "Provide a detailed evaluation of the image quality.",
+    "source": "logs/tcl_eval/single_natural_llm-only-ckpt22.json",
+    "method": "single-image inference per camera, concatenated for collator"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "experiment_name": "Yuliya-fullft-ckpt22-singlepass",
+  "run_id": "2026-05-09_07-16-08",
+  "image_pairs": [
+    {
+      "scene_id": "011",
+      "text_description": "Image A: Good exposure, wide dynamic range, nice colors\n\nImage B: Good exposure, wide dynamic range, pleasant colors"
+    },
+    {
+      "scene_id": "012",
+      "text_description": "Image A: Good detail, slight color cast\n\nImage B: Good detail, slight highlight clipping"
+    },
+    {
+      "scene_id": "023",
+      "text_description": "Image A: Good exposure, wide dynamic range, pleasant skin tones\n\nImage B: Good exposure, pleasant skin tones"
+    },
+    {
+      "scene_id": "066",
+      "text_description": "Image A: Good exposure, wide dynamic range, good detail\n\nImage B: Good exposure, wide dynamic range, nice colors, slight noise"
+    },
+    {
+      "scene_id": "068",
+      "text_description": "Image A: Good exposure, slight highlight clipping\n\nImage B: Good exposure, nice colors, but is slightly under."
+    },
+    {
+      "scene_id": "088",
+      "text_description": "Image A: Good detail, slightly inaccurate color rendering\n\nImage B: Good exposure, nice colors, slight under-saturation in the the background"
+    },
+    {
+      "scene_id": "114",
+      "text_description": "Image A: Good exposure, nice colors, slight noise\n\nImage B: Good exposure, nice colors, but is slightly warm"
+    },
+    {
+      "scene_id": "191",
+      "text_description": "Image A: Good exposure, nice colors, slight noise\n\nImage B: Good exposure, nice colors, but has a good detail"
+    },
+    {
+      "scene_id": "002",
+      "text_description": "Image A: Good detail preservation, slight highlight clipping\n\nImage B: Good exposure, slight highlight clipping"
+    },
+    {
+      "scene_id": "003",
+      "text_description": "Image A: Good exposure, wide dynamic range, nice skin tones, good detail\n\nImage B: Good exposure, wide dynamic range, good detail"
+    },
+    {
+      "scene_id": "006",
+      "text_description": "Image A: Good exposure, wide dynamic range, wide field of view\n\nImage B: Good exposure, wide dynamic range, wide dynamic range, wide dynamic range"
+    },
+    {
+      "scene_id": "009",
+      "text_description": "Image A: Good detail, slightly inaccurate target exposure\n\nImage B: Good detail, slight highlight clipping"
+    },
+    {
+      "scene_id": "016",
+      "text_description": "Image A: Good detail, slight color cast\n\nImage B: Good detail, wide dynamic range, pleasant color rendering"
+    },
+    {
+      "scene_id": "031",
+      "text_description": "Image A: Good detail\n\nImage B: Good detail, slight highlight clipping"
+    },
+    {
+      "scene_id": "034",
+      "text_description": "Image A: Good detail, slightly inaccurate color rendering\n\nImage B: Good detail, slightly inaccurate color rendering"
+    },
+    {
+      "scene_id": "047",
+      "text_description": "Image A: Good exposure, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide\n\nImage B: Good exposure, wide dynamic range, but, good detail, slight highlight clipping"
+    },
+    {
+      "scene_id": "056",
+      "text_description": "Image A: Good detail, slight color cast\n\nImage B: Good detail, slight highlight clipping"
+    },
+    {
+      "scene_id": "061",
+      "text_description": "Image A: Good detail\n\nImage B: Good detail, slightly inaccurate color rendering"
+    },
+    {
+      "scene_id": "065",
+      "text_description": "Image A: Good exposure, wide dynamic range, slight noise\n\nImage B: Good exposure, wide dynamic range, wide dynamic range, good detail"
+    },
+    {
+      "scene_id": "082",
+      "text_description": "Image A: Good exposure, wide dynamic range, nice colors, good detail\n\nImage B: Good exposure, wide dynamic range, nice colors, good detail"
+    },
+    {
+      "scene_id": "084",
+      "text_description": "Image A: Good exposure, wide dynamic range, nice colors\n\nImage B: Good exposure, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide dynamic range, wide"
+    },
+    {
+      "scene_id": "086",
+      "text_description": "Image A: Good exposure and color rendering, but nice skin tones\n\nImage B: Good exposure and color rendering, but some noise in the background"
+    },
+    {
+      "scene_id": "091",
+      "text_description": "Image A: Good exposure, nice colors, slight noise\n\nImage B: Good exposure, nice colors, but nice detail"
+    },
+    {
+      "scene_id": "098",
+      "text_description": "Image A: Good detail, slight highlight clipping\n\nImage B: Good detail, slight underexposure"
+    },
+    {
+      "scene_id": "102",
+      "text_description": "Image A: Motion blur\n\nImage B: Motion blur"
+    },
+    {
+      "scene_id": "111",
+      "text_description": "Image A: Good exposure and color rendering, but slight underexposure on the the car\n\nImage B: Good exposure, wide dynamic range, nice colors, good detail"
+    },
+    {
+      "scene_id": "126",
+      "text_description": "Image A: Good exposure, nice colors, slight noise\n\nImage B: Good exposure, nice colors, slight noise"
+    },
+    {
+      "scene_id": "142",
+      "text_description": "Image A: Good exposure and color rendering, but slight underexposure on the the right side of the the image.\n\nImage B: Good exposure and contrast, but undercast in the background"
+    }
+  ],
+  "metadata": {
+    "prompt": "Provide a detailed evaluation of the image quality.",
+    "source": "logs/tcl_eval/single_natural_fullft-ckpt22.json",
+    "method": "single-image inference per camera, concatenated for collator"
+  }
+}
