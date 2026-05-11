@@ -1,0 +1,118 @@
+{
+  "experiment_name": "jakkol-downscale-and-heuristic-crop",
+  "run_id": "qwen2",
+  "image_pairs": [
+    {
+      "scene_id": "002",
+      "text_description": "higher contrast and sharper details on Image A\nslightly more vivid colors on Image A\nless noise and smoother texture on Image A\nhigher and more even noise on Image B"
+    },
+    {
+      "scene_id": "003",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore visible noise and grain on Image B\nless detailed texture on Image B\nslightly warmer color tone on Image A"
+    },
+    {
+      "scene_id": "047",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore pronounced lens flare on Image B\nless visible noise in Image A\nslightly sharper details in Image A\ncooler color temperature and lower saturation on Image A"
+    },
+    {
+      "scene_id": "056",
+      "text_description": "similar overall brightness and contrast levels\nslightly more vivid colors in Image A\nfewer visible noise points in Image A\nmore pronounced shadows in Image A\nslightly sharper details in Image A\nslightly warmer white balance in Image A"
+    },
+    {
+      "scene_id": "061",
+      "text_description": "similar overall composition and tonality\nslightly more detailed texture on Image A\nslightly more even lighting on Image B\nsimilar noise levels\nsimilar color balance and saturation"
+    },
+    {
+      "scene_id": "065",
+      "text_description": "similar overall brightness and contrast levels\nslightly more noise visible in Image B\nless detailed texture on the wall in Image A\nmore pronounced ceiling light reflections in Image B\nsimilar car details but slightly sharper in Image A\nslightly warmer tone in Image B"
+    },
+    {
+      "scene_id": "066",
+      "text_description": "similar overall brightness and contrast levels\nslightly more noise visible in Image B\nless detailed texture on Image A\nmore pronounced graininess in Image B\nsimilar color temperature and saturation levels"
+    },
+    {
+      "scene_id": "068",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore visible noise on Image B\nless sharpness in shadows on Image A\nslightly warmer white balance on Image B"
+    },
+    {
+      "scene_id": "082",
+      "text_description": "similar overall exposure and contrast levels\nslightly more noise visible in Image B\nsimilar color balance and saturation\nsimilar sharpness and detail in both\nsimilar lighting conditions"
+    },
+    {
+      "scene_id": "084",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore pronounced noise on Image B\nless visible details in shadows on Image A\nslightly warmer white balance and higher saturation on Image B\ndarker and more uniform shadows on Image A\nmore vivid colors on Image B"
+    },
+    {
+      "scene_id": "086",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore visible noise and grain on Image B\nless detailed texture on Image A\nslightly more vivid colors on Image B"
+    },
+    {
+      "scene_id": "088",
+      "text_description": "similar overall composition and tonality\nslightly more vibrant colors in Image B\nless visible noise in Image A\nmore detailed texture in Image B"
+    },
+    {
+      "scene_id": "006",
+      "text_description": "similar overall brightness and contrast levels\nslightly more vivid colors in Image A\nless visible noise in Image A\nmore pronounced shadows in Image A\nslightly sharper details in Image A\nsimilar composition and framing"
+    },
+    {
+      "scene_id": "091",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore visible noise on Image B\nless detailed textures on Image A\nslightly warmer white balance on Image B"
+    },
+    {
+      "scene_id": "098",
+      "text_description": "similar overall composition and text clarity\nslightly more vivid colors on Image B\nfewer visible specks on Image A\nmore pronounced reflections on Image B\nless sharpness in Image A\nslightly more contrast in Image B"
+    },
+    {
+      "scene_id": "102",
+      "text_description": "higher and more visible noise on Image B\nless sharpness and blurrier edges on Image B\nmore pronounced motion blur on Image B\ndarker and less details in shadows on Image A\nslightly warmer white balance and higher saturation on Image B"
+    },
+    {
+      "scene_id": "111",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore visible noise on Image B\nless detailed textures on Image A\nslightly warmer white balance on Image B"
+    },
+    {
+      "scene_id": "114",
+      "text_description": "similar overall exposure and contrast levels\nslightly more noise visible in Image B\nmore pronounced facial details in Image A\nless noise and smoother skin texture in Image A"
+    },
+    {
+      "scene_id": "126",
+      "text_description": "higher contrast and brighter highlights on Image B\nslightly more vivid colors on Image B\nless visible noise in Image A\nmore pronounced lens flare on Image B\ndarker and less detailed shadows on Image A\nslightly sharper focus on Image B"
+    },
+    {
+      "scene_id": "142",
+      "text_description": "similar overall exposure and contrast levels\nslightly more vivid colors in Image A\nless visible noise in Image A\nslightly sharper details in Image A\nsimilar lighting conditions"
+    },
+    {
+      "scene_id": "191",
+      "text_description": "higher contrast and brighter highlights on Image B\nmore pronounced lens flare on Image B\nless visible noise in Image A\nslightly sharper details in Image A\ncooler white balance and lower saturation on Image A\nhigher and more pronounced noise on Image B"
+    },
+    {
+      "scene_id": "009",
+      "text_description": "similar overall brightness and contrast levels\nslightly more vivid colors in Image B\nless visible noise in Image A\nslightly sharper details in Image A\nslightly more even exposure in Image B"
+    },
+    {
+      "scene_id": "011",
+      "text_description": "similar overall exposure and contrast levels\nslightly more vivid colors in Image A\nless noise in Image A\nmore pronounced noise in Image B\nclearer details in Image A\nslightly softer focus in Image B"
+    },
+    {
+      "scene_id": "012",
+      "text_description": "similar overall composition and tonality\nslightly more vibrant colors in Image A\nfewer visible noise points in Image A\nslightly sharper details in Image A\nslightly more even lighting in Image A"
+    },
+    {
+      "scene_id": "016",
+      "text_description": "similar overall brightness and contrast levels\nslightly more vivid colors in Image A\nless noise in Image A\nmore detailed textures in Image A\nslightly sharper focus in Image A\nslightly warmer white balance in Image A"
+    },
+    {
+      "scene_id": "023",
+      "text_description": "similar overall exposure and contrast levels\nslightly more noise visible in Image B\nmore detailed texture in Image A\nslightly warmer color tone in Image A"
+    },
+    {
+      "scene_id": "031",
+      "text_description": "similar overall brightness and contrast levels\nslightly more vivid colors in Image A\nfew minor dust particles visible in Image B\nmore pronounced scratches and marks on Image A\nless noise in Image A"
+    },
+    {
+      "scene_id": "034",
+      "text_description": "similar overall composition and tonality\nslightly more vibrant colors in Image A\nless noise and clearer details in Image A\nmore even lighting in Image A"
+    }
+  ]
+}

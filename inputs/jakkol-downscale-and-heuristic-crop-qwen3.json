@@ -1,0 +1,118 @@
+{
+  "experiment_name": "jakkol-downscale-and-heuristic-crop",
+  "run_id": "qwen3",
+  "image_pairs": [
+    {
+      "scene_id": "002",
+      "text_description": "assistant\nsame exposure on both images\nsame white balance on both images\nsame color rendering on both images"
+    },
+    {
+      "scene_id": "003",
+      "text_description": "better detail on Image A\nbetter detail on Image B"
+    },
+    {
+      "scene_id": "047",
+      "text_description": "better exposure on Image B\nbetter dynamic range on Image B\nbetter contrast on Image B\nbetter color rendering on Image B\nbetter skin tones on Image B\nbetter detail on Image B"
+    },
+    {
+      "scene_id": "056",
+      "text_description": "better dynamic range on Image A\nbetter contrast on Image A\nbetter detail on Image A"
+    },
+    {
+      "scene_id": "061",
+      "text_description": "same exposure on both images\nsame white balance on both images\nsame color rendering on both images"
+    },
+    {
+      "scene_id": "065",
+      "text_description": "assistant\nsame exposure on both images\nsame dynamic range on both images\nsame color rendering on both images"
+    },
+    {
+      "scene_id": "066",
+      "text_description": "assistant\nsame exposure on both images\nsame dynamic range on both images\nsame noise on both images\nsame detail on both images"
+    },
+    {
+      "scene_id": "068",
+      "text_description": "assistant\nbetter dynamic range on Image A\nbetter detail on Image A\nbetter detail on Image B"
+    },
+    {
+      "scene_id": "082",
+      "text_description": "assistant\nbetter dynamic range on Image A\nbetter detail on Image A\nbetter color rendering on Image A"
+    },
+    {
+      "scene_id": "084",
+      "text_description": "assistant\nbetter exposure on Image B\nbetter detail on Image B\nbetter color on Image B"
+    },
+    {
+      "scene_id": "086",
+      "text_description": "assistant\nbetter exposure on Image A\nbetter exposure on Image B"
+    },
+    {
+      "scene_id": "088",
+      "text_description": "better dynamic range on Image A\nbetter detail on Image A\nbetter color rendering on Image A"
+    },
+    {
+      "scene_id": "006",
+      "text_description": "assistant\nbetter exposure on Image A\nbetter exposure on Image B"
+    },
+    {
+      "scene_id": "091",
+      "text_description": "assistant\nbetter dynamic range on Image A\nbetter detail on Image A\nbetter detail on Image B"
+    },
+    {
+      "scene_id": "098",
+      "text_description": "better detail on Image A\nbetter detail on Image B"
+    },
+    {
+      "scene_id": "102",
+      "text_description": "same exposure on both images\nsame motion blur on both images\nsame dynamic range on both images"
+    },
+    {
+      "scene_id": "111",
+      "text_description": "better exposure on Image A\nbetter exposure on Image B"
+    },
+    {
+      "scene_id": "114",
+      "text_description": "assistant\nbetter exposure on Image A\nbetter exposure on Image B"
+    },
+    {
+      "scene_id": "126",
+      "text_description": "better dynamic range on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on Image A\nbetter detail on"
+    },
+    {
+      "scene_id": "142",
+      "text_description": "assistant\nbetter dynamic range on Image A\nbetter detail on Image A"
+    },
+    {
+      "scene_id": "191",
+      "text_description": "assistant\nbetter dynamic range on Image A\nbetter detail on Image A\nbetter color rendering on Image A"
+    },
+    {
+      "scene_id": "009",
+      "text_description": "better dynamic range on Image B\nbetter contrast on Image B\nbetter color rendering on Image B"
+    },
+    {
+      "scene_id": "011",
+      "text_description": "better dynamic range on Image B\nbetter exposure on Image B\nbetter contrast on Image B\nbetter color rendering on Image B"
+    },
+    {
+      "scene_id": "012",
+      "text_description": "same exposure on both images\nsame dynamic range on both images\nsame contrast on both images\nsame color rendering on both images"
+    },
+    {
+      "scene_id": "016",
+      "text_description": "better dynamic range on Image A\nbetter contrast on Image A\nbetter detail on Image A"
+    },
+    {
+      "scene_id": "023",
+      "text_description": "same exposure on both images\nsame white balance on both images\nsame color rendering on both images"
+    },
+    {
+      "scene_id": "031",
+      "text_description": "better contrast on Image A\nbetter detail on Image A"
+    },
+    {
+      "scene_id": "034",
+      "text_description": "same exposure on both images\nsame dynamic range on both images\nsame contrast on both images\nsame color rendering on both images"
+    }
+  ]
+}

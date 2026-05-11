@@ -1,0 +1,118 @@
+{
+  "experiment_name": "jakkol-tcl-gt",
+  "run_id": "001",
+  "image_pairs": [
+    {
+      "scene_id": "002",
+      "text_description": "better structure / higher sharpness on Image B\ndarker shadows / blacks on Image B\nWB falls into green / yellow tones on Image B\ndarker whites on Image A\nmore details on highlights on Image A\non both slightly visible colorful spots"
+    },
+    {
+      "scene_id": "003",
+      "text_description": "darker and red face on Image B\nhigher saturation on person on Image B\nhigher contrast on Image B\nmore details on highlights on Image A\non both visible colorful spots"
+    },
+    {
+      "scene_id": "006",
+      "text_description": "overexposure on highlights on Image B\nbetter structure on Image B\nslightly higher sharpness on Image B\ncolorful spots on both\nhigher but finer and more even noise on Image B"
+    },
+    {
+      "scene_id": "009",
+      "text_description": "overexposure on highlights on Image B\nhigher contrast on Image B\nnoise on Image A\nbetter structure on Image B \nchromatic abberation on Image A\nwarmer WB on Image A\nartifacts around edges on Image B"
+    },
+    {
+      "scene_id": "011",
+      "text_description": "Highlights (mainly the sky) are better on the Image A, with no overexposure areas and more detail. The Image B has significant overexposure areas and little detail in the sky.\nMidtones and shadows are brighter on the Image B, while the Image A has them noticeably darker.\nGenerally, the level of detail and structure is similar on both, but in a few places the structure is better on the Image B.\nSignificantly more noise on the Image A (especially in midtones, shadows, and edges).\nVisible and higher local contrast on the Image B, too high; the Image A looks better here.\nChromatic aberration on the Image A"
+    },
+    {
+      "scene_id": "012",
+      "text_description": "Wider tonal range on the Image A, less overexposure (especially in the sky)\nSlightly brighter shadows on the Image A\nHigher contrast on the Image B, too high\nShadows lean too much into the black tones, resulting in slightly less detail (related to contrast) on Image B\nLower saturation on the Image B\nHigher noise on the Image A, especially in shadows\nSlightly visible color spots on the Image B\nJagged edges with strange shadows on the Image B\nSlightly jagged edges also on the Image A, but less visible due to the lower contrast\nSlightly visible chromatic aberration on the Image A\nStronger sharpening in midtones on the Image B"
+    },
+    {
+      "scene_id": "016",
+      "text_description": "brighter sky on Image B\noverexposure on highlights on Image B\nbrighter midtones on Image B\nhigher contrast on Image B\nhigher noise on Image A"
+    },
+    {
+      "scene_id": "023",
+      "text_description": "Wider tonal range on the Image A, especially visible in the sky, which is not overexposed.\nBrighter shadows on the character on the Image A.\nBrighter background on the Image B.\nBrighter face on the Image A.\nMore skin detail (scars, pores, and eyebrows are more visible) on the Image A.\nMore detail on the character (which is in the foreground) on the Image A than on the Image B, but the situation is reversed in the background, with the Image B having more detail (background blur is weaker).\nHigher saturation of red colors on the skin of the face on the Image B.\nSlight noise is visible on the subject on the Image A, which is stronger than on the Image B."
+    },
+    {
+      "scene_id": "031",
+      "text_description": "smaller saturation on Image B\ndarker EV on Image B\nsmall white border around edges on Image B"
+    },
+    {
+      "scene_id": "034",
+      "text_description": "wider tonal range on Image B (brighter and midtones shadows)\ndarker sky and falls into magenta tones on Image A\njagged edges on both but higher on Image A"
+    },
+    {
+      "scene_id": "047",
+      "text_description": "overexposure on highlights on Image B\nbrighter shadows on Image A\nwarmer WB on Image A\nbrighter face on Image A\nhigher sharpness on background on Image B"
+    },
+    {
+      "scene_id": "056",
+      "text_description": "overexposure on Image B\non both jagged edges\nuneven noise on Image A\non both small banding\nuneven structure on Image A\nbrighter midtones on Image B"
+    },
+    {
+      "scene_id": "061",
+      "text_description": "artifacts around edges on Image B\njagged edges on Image A\non both slightly visible colorful spots\nwarmer WB on Image A and falls into green tones\nhigher saturation on Image A \nhigher contrast on Image B\nblurred corners on Image A"
+    },
+    {
+      "scene_id": "065",
+      "text_description": "on Image B WB falls into magenta tones, on Image A WB falls into green tones\nmore details on highlights on Image A\nmore noise on the paving stones on Image A\nblurred structure on the ceiling on Image A\nhigher contrast on Image B (darker shadows, less detail in shadows)\ncolorful spots on Image B"
+    },
+    {
+      "scene_id": "066",
+      "text_description": "higher noise on Image A\nworse details on Image A\nuneven structure on Image A\nblurred structure on Image A\non both visible colorful spots but on stronger on Image B"
+    },
+    {
+      "scene_id": "068",
+      "text_description": "darker shadows and midtones on Image A (narrower tonal range)\nhigher and uneven noise on Image A\nvisible colorful spots on both\ndarker and less details in shadows on Image B\nuneven structure on Image A (it's not a real structure, it's just noise pretending to be one), on Image B denoised surface\ncolder white balance and smaller saturation on Image B"
+    },
+    {
+      "scene_id": "082",
+      "text_description": "warmer WB on Image A\nbetter details in shadows on Image A\nhigher but more even noise on sky on Image B\nmore noise on the paving stones on Image A"
+    },
+    {
+      "scene_id": "084",
+      "text_description": "overexposure on highlights on Image B\nslightly brighter shadows on Image A\nhigher noise on Image A"
+    },
+    {
+      "scene_id": "086",
+      "text_description": "brighter face on Image A\nstronger red tones on face on Image B\nlower saturation and colder WB on Image B\nbrighter background on Image B\nhigher noise on person on Image A\nbetter details on face and around it on Image B, some of them is just a noise but it looks more natural\nbetter details on jacket on Image A\nstronger and uneven noise on sky on Image A\nvisible colorful spots on Image B"
+    },
+    {
+      "scene_id": "088",
+      "text_description": "smaller saturation on Image B\nless details on Image B\nnoise on Image A\nnon-uniform structure on Image B\nvisible colorful spots on Image A"
+    },
+    {
+      "scene_id": "091",
+      "text_description": "lower saturation on Image B\nwarmer WB on Image A\nbrighter EV on Image A\nbrighter shadows with more details on Image A\nuneven noise on sky on Image A but on Image B noise is more even\ncolorful spots on Image A\nhigher noise on Image A"
+    },
+    {
+      "scene_id": "098",
+      "text_description": "warmer WB on Image A\nsmaller saturation on Image B\non Image A, the white borders around the edges are more visible\nstronger, uneven noise on Image A"
+    },
+    {
+      "scene_id": "102",
+      "text_description": "brighter EV on Image B\nhigher noise on moving object on Image A\nhigher noise on background on Image A\nhigher blur on background on Image A\nbetter structure on Image B, looks more natural (for example lines are straighter)"
+    },
+    {
+      "scene_id": "111",
+      "text_description": "wider tonal range on Image A (brighter shadows, no overexposure on highlights)\nhigher saturation and warmer WB on Image A\nblurred photo on Image A, better sharpness on Image B\nbad structure on both, on Image B visible artifacts, on Image A high noise without structure\nhigher uneven noise on sky on Image A"
+    },
+    {
+      "scene_id": "114",
+      "text_description": "darker and falls into red tones face on Image B\nsmaller saturation on background on Image B\nhigher blur and less details on person on Image A\ncolorful spots on sky on Image A\nslightly visible uneven noise on sky on Image B\nstronger noise on person on Image A\nbrighter background on Image B"
+    },
+    {
+      "scene_id": "126",
+      "text_description": "wider tonal range on Image A (brighter shadows with more details, better highlights)\nhigher saturation on Image A\nblurred photo on Image A, sharp on Image B\non both noise on the sky (on Image A it is more visible because the exposure is higher)"
+    },
+    {
+      "scene_id": "142",
+      "text_description": "wider tonal range on Image A (brighter shadows, better highlights)\nhigher saturation on Image A\nhigher noise on Image A"
+    },
+    {
+      "scene_id": "191",
+      "text_description": "worse strucutre on Image A\nartifact on light sources on Image A\nless blurred moving object on Image B\nsmaller saturation on Image B\nnarrower tonal mapping on Image B\non both visible flares\nslightly visible banding on both"
+    }
+  ]
+}
